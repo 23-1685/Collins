@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ultimate Sports Highlights</title>
+</head>
+<body>
+
+    <!-- Website Name -->
+    <h1>Ultimate Sports Highlights</h1>
+
+    <!-- Introduction Paragraph -->
+    <p>Welcome to Ultimate Sports Highlights! This site brings you the most exciting, action-packed moments from the world of sports. Whether you're a fan of football, basketball, or extreme sports, we've got something for every sports enthusiast.</p>
+
+    <!-- Subheading -->
+    <h2>Top Highlights You Can Explore</h2>
+
+    <!-- Unordered List of Services or Items -->
+    <ul>
+        <li>Daily Football Match Highlights</li>
+        <li>NBA Game Recaps</li>
+        <li>Top 10 Plays of the Week</li>
+        <li>Behind-the-Scenes Player Interviews</li>
+        <li>Legendary Sports Moments Archive</li>
+    </ul>
+
+</body>
+</html>
